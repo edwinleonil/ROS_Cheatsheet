@@ -11,7 +11,8 @@
     
         catkin init
     You should init a workspace (catkin init), or ensure that you are in the folder that you original created.
-- sdsds
+
+- To install dependencies
 
         rosdep install -y --from-paths . --ignore-src --rosdistro melodic
 
